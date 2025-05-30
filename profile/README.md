@@ -51,4 +51,4 @@ All projects are under the MIT License unless stated otherwise.
 
 ---
 
-Made with 🖤 by [Sparkm](https://github.com/sparkm-07)
+Made with 🖤 by [ShrijithSM](https://github.com/shrijithsm)
