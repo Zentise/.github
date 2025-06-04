@@ -2,8 +2,6 @@
 
 Welcome to **Zentise AI** – a space where creative, minimal, and powerful AI projects are crafted.
 
-Zentise AI is an indie initiative led by a passionate student developer exploring the vast world of Artificial Intelligence and Machine Learning. Here, you'll find small, focused, and experimental AI-driven projects that aim to be useful, insightful, or just plain fun.
-
 ---
 
 ## 🚀 Featured Projects
