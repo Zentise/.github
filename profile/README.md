@@ -8,7 +8,7 @@ Welcome to **Zentise AI** – a space where creative, minimal, and powerful AI p
 
 - 🎬 [**Movie Recommendation System**](https://github.com/ZentiseAI/movie-recommendation-system)  
   A personalized movie recommendation engine that uses collaborative filtering and content-based techniques to help you discover what to watch next.
-- 📖 [**Offline AI Study Buddy**](https://github.com/Zentise/Offline-AI-Study-Buddy)
+- 📖 [**Offline AI Study Buddy**](https://github.com/Zentise/Offline-AI-Study-Buddy)  
   A completely local, offline AI chatbot powered by the Mistral LLM using Ollama. Ask any question and get helpful, structured answers — no API key or internet required after setup. 
 
 ---
