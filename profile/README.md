@@ -3,7 +3,7 @@
 Welcome to **Zentise AI** – a space where creative, minimal, and powerful AI projects are crafted.
 
 ---
-
+ 
 ## 🚀 Featured Projects
 
 - 🎬 [**Movie Recommendation System**](https://github.com/ZentiseAI/movie-recommendation-system)  
