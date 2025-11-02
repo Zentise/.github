@@ -1,32 +1,41 @@
 # 🧠 Zentise AI
 
-Welcome to **Zentise AI** – a space where creative, minimal, and powerful AI projects are crafted.
+Welcome to Zentise AI — a home for clean, minimal, and powerful AI projects built under the Zentise organization.
 
 ---
- 
+
 ## 🚀 Featured Projects
 
-- 🎬 [**Movie Recommendation System**](https://github.com/ZentiseAI/movie-recommendation-system)  
-  A personalized movie recommendation engine that uses collaborative filtering and content-based techniques to help you discover what to watch next.
-- 📖 [**Offline AI Study Buddy**](https://github.com/Zentise/Offline-AI-Study-Buddy)
-  A completely local, offline AI chatbot powered by the Mistral LLM using Ollama. Ask any question and get helpful, structured answers — no API key or internet required after setup. 
+- 👗 [DripMate](https://github.com/Zentise/DripMate)  
+  An offline-friendly AI stylist with chat-based outfit suggestions, a personal wardrobe, favorites, and a dark, mobile-first UI.  
+  - Backend: FastAPI, SQLAlchemy, SQLite, Pydantic v2, Uvicorn  
+  - AI: Ollama (Llama 3) with strict JSON prompts and output normalization  
+  - Vision: YOLOv5 + ResNet + OpenCV color extraction for photo-based wardrobe items  
+  - Frontend: React (Vite), Tailwind (CDN), Axios, React Router
+
+- 📖 [Offline AI Study Buddy](https://github.com/Zentise/Offline-AI-Study-Buddy)  
+  A completely local, offline AI chatbot powered by Ollama and the Mistral LLM. Ask anything and get structured answers — no API key or internet required after setup.
+
+- 🎬 [Movie Recommendation System](https://github.com/ZentiseAI/movie-recommendation-system)  
+  A personalized recommendation engine using collaborative filtering and content-based techniques to help you decide what to watch next.
 
 ---
 
 ## 📌 Vision
 
-> **Build. Learn. Share. Repeat.**
+> Build. Learn. Share. Repeat.
 
-Zentise AI is about rapid prototyping and meaningful learning. Every project under this organization is built from scratch, aiming to combine clarity with creativity. No bloated systems—just clean, minimal AI experiments.
+We rapidly prototype meaningful AI tools with clarity and creativity. No bloat—just focused, well-structured experiments that ship and teach.
 
 ---
 
 ## 🔧 Tech Stack
 
-- Python, NumPy, Pandas
-- Scikit-learn, TensorFlow, PyTorch
-- Streamlit, Flask
-- Jupyter Notebooks
+- Python, FastAPI, SQLAlchemy, Pydantic, Uvicorn, SQLite  
+- PyTorch, TorchVision, OpenCV, NumPy, Pandas  
+- Ollama (local LLMs)  
+- React, Vite, Tailwind CSS, Axios, React Router  
+- Jupyter Notebooks (for exploration)  
 - Git, GitHub Actions
 
 ---
@@ -36,12 +45,13 @@ Zentise AI is about rapid prototyping and meaningful learning. Every project und
 Stay updated with new releases and dev logs:
 
 - Twitter/X: [@ZentiseAI](https://twitter.com/ZentiseAI)
+- GitHub Org: [Zentise](https://github.com/Zentise)
 
 ---
 
 ## 🤝 Contributing
 
-Currently, this is a solo project space, but you're welcome to explore, fork, and suggest improvements through issues or discussions.
+This is primarily a maker space, but contributions are welcome. Explore, fork, and open issues or PRs with clear, focused changes.
 
 ---
 
