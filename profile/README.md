@@ -7,11 +7,12 @@ Welcome to Zentise AI — a home for clean, minimal, and powerful AI projects bu
 ## 🚀 Featured Projects
 
 - 👗 [DripMate](https://github.com/Zentise/DripMate)  
-  An offline-friendly AI stylist with chat-based outfit suggestions, a personal wardrobe, favorites, and a dark, mobile-first UI.  
-  - Backend: FastAPI, SQLAlchemy, SQLite, Pydantic v2, Uvicorn  
-  - AI: Ollama (Llama 3) with strict JSON prompts and output normalization  
-  - Vision: YOLOv5 + ResNet + OpenCV color extraction for photo-based wardrobe items  
-  - Frontend: React (Vite), Tailwind (CDN), Axios, React Router
+  An AI-powered personal stylist with chat-based and image-based outfit suggestions, built for a smooth mobile-first experience.  
+  - **Backend:** FastAPI, SQLAlchemy, SQLite, Pydantic  
+  - **AI:** Groq (LLaMA 3.x) for text + Gemini Vision for image understanding  
+  - **Frontend:** React (Vite), Tailwind CSS, Axios, React Router  
+  - **Deployment:** Vercel (frontend) & Render (backend)  
+
 
 - 📖 [Offline AI Study Buddy](https://github.com/Zentise/Offline-AI-Study-Buddy)  
   A completely local, offline AI chatbot powered by Ollama and the Mistral LLM. Ask anything and get structured answers — no API key or internet required after setup.
