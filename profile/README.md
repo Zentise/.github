@@ -13,7 +13,6 @@ Welcome to Zentise AI — a home for clean, minimal, and powerful AI projects bu
   - **Frontend:** React (Vite), Tailwind CSS, Axios, React Router  
   - **Deployment:** Vercel (frontend) & Render (backend)  
 
-
 - 📖 [Offline AI Study Buddy](https://github.com/Zentise/Offline-AI-Study-Buddy)  
   A completely local, offline AI chatbot powered by Ollama and the Mistral LLM. Ask anything and get structured answers — no API key or internet required after setup.
 
