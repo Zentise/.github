@@ -51,6 +51,7 @@ Stay updated with new releases and dev logs:
 
 ## 🤝 Contributing
 
+
 This is primarily a maker space, but contributions are welcome. Explore, fork, and open issues or PRs with clear, focused changes.
 
 ---
