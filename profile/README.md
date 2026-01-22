@@ -1,3 +1,4 @@
+
 # 🧠 Zentise AI
 Welcome to Zentise AI — a home for clean, minimal, and powerful AI projects built under the Zentise organization.
 
